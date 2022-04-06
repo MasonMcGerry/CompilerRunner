@@ -21,7 +21,7 @@ https://download.java.net/java/early_access/loom/docs/api/java.base/java/lang/Ru
 
 public class Main {
 	public static void main(String[] args) {
-// run app
+		// run app
 		CompilerRunner cr = new CompilerRunner();
 		cr.window();
 	}
